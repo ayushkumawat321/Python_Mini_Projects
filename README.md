@@ -6,7 +6,7 @@ The goal of this repo is to improve problem-solving skills and strengthen core c
 
 ## Projects Included 
 
-### 1.Calculator
+### 1. Calculator
 A simple calculator that performs basic operations :
 - Addition
 - Subtraction
@@ -16,14 +16,19 @@ A simple calculator that performs basic operations :
 Folder : `Calculator/`
 --------------------------------------------------------
 
-### 2.Guess The Number Game
+### 2. Guess The Number Game
 A fun number guessing game where :
 - The program generates a random number
 - The user tries to guess it
 - The program provides hints ( try lower no. / try higher no. )
 
-Folder : `Guess-the-number-games/`
+Folder : `Guess-The-Number-Game/`
 --------------------------------------------------------
+
+### 3. Password Genertor
+A simple program to generate a random password of length given by user.
+- Combination of letters, digits, punctuations
+- any length provided by user (eg. length : 8  Password = 13#da*0L) 
 
 ## 🛠 Technologies Used
 - Python 3
