@@ -13,7 +13,6 @@ A simple calculator that performs basic operations :
 - Multiplication
 - Division
 
-Folder : `Calculator/`
 --------------------------------------------------------
 
 ### 2. Guess The Number Game
@@ -22,7 +21,6 @@ A fun number guessing game where :
 - The user tries to guess it
 - The program provides hints ( try lower no. / try higher no. )
 
-Folder : `Guess-The-Number-Game/`
 --------------------------------------------------------
 
 ### 3. Password Genertor
@@ -30,7 +28,6 @@ A simple program to generate a random password of length given by user.
 - Combination of letters, digits, punctuations
 - Any length provided by user (eg. length : 8  Password = 13#da*0L)
 
-Folder : `Password-Generator/`
 --------------------------------------------------------
 
 ### 4. Stone Paper Scissor Game
@@ -43,7 +40,6 @@ A fun Stone-Paper-Scissor game where:
 - Scissor v/s Paper = Scissor
 - Otherwise lose
  
-Folder : `Stone-Paper-Scissor-Game/`
 --------------------------------------------------------
 
 ## 🛠 Technologies Used
