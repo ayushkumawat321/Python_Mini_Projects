@@ -28,7 +28,23 @@ Folder : `Guess-The-Number-Game/`
 ### 3. Password Genertor
 A simple program to generate a random password of length given by user.
 - Combination of letters, digits, punctuations
-- any length provided by user (eg. length : 8  Password = 13#da*0L) 
+- Any length provided by user (eg. length : 8  Password = 13#da*0L)
+
+Folder : `Password-Generator/`
+--------------------------------------------------------
+
+### 4. Stone Paper Scissor Game
+A fun Stone-Paper-Scissor game where:
+- Computer generate a choice from (Stone,Paper,Scissor)
+- User can enter its choice
+- RULES:-
+- Stone v/s Scissor = Stone  
+- Paper v/s Stone = Paper  
+- Scissor v/s Paper = Scissor
+- Otherwise lose
+ 
+Folder : `Stone-Paper-Scissor-Game/`
+--------------------------------------------------------
 
 ## 🛠 Technologies Used
 - Python 3
