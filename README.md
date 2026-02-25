@@ -6,23 +6,40 @@ The goal of this repo is to improve problem-solving skills and strengthen core c
 
 ## Projects Included 
 
-### 1.Calculator
+### 1. Calculator
 A simple calculator that performs basic operations :
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-Folder : `Calculator/`
 --------------------------------------------------------
 
-### 2.Guess The Number Game
+### 2. Guess The Number Game
 A fun number guessing game where :
 - The program generates a random number
 - The user tries to guess it
 - The program provides hints ( try lower no. / try higher no. )
 
-Folder : `Guess-the-number-games/`
+--------------------------------------------------------
+
+### 3. Password Genertor
+A simple program to generate a random password of length given by user.
+- Combination of letters, digits, punctuations
+- Any length provided by user (eg. length : 8  Password = 13#da*0L)
+
+--------------------------------------------------------
+
+### 4. Stone Paper Scissor Game
+A fun Stone-Paper-Scissor game where:
+- Computer generate a choice from (Stone,Paper,Scissor)
+- User can enter its choice
+- RULES:-
+- Stone v/s Scissor = Stone  
+- Paper v/s Stone = Paper  
+- Scissor v/s Paper = Scissor
+- Otherwise lose
+ 
 --------------------------------------------------------
 
 ## 🛠 Technologies Used
